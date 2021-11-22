@@ -1,0 +1,15 @@
+C:\Learn\rabbitmq-by-example\3-rabbitmq-by-example-m3-exercise-files\StandardQueue\bin\Debug\StandardQueue.exe.config
+C:\Learn\rabbitmq-by-example\3-rabbitmq-by-example-m3-exercise-files\StandardQueue\bin\Debug\StandardQueue.exe
+C:\Learn\rabbitmq-by-example\3-rabbitmq-by-example-m3-exercise-files\StandardQueue\bin\Debug\StandardQueue.pdb
+C:\Learn\rabbitmq-by-example\3-rabbitmq-by-example-m3-exercise-files\StandardQueue\bin\Debug\Common.dll
+C:\Learn\rabbitmq-by-example\3-rabbitmq-by-example-m3-exercise-files\StandardQueue\bin\Debug\RabbitMQ.Client.dll
+C:\Learn\rabbitmq-by-example\3-rabbitmq-by-example-m3-exercise-files\StandardQueue\bin\Debug\Newtonsoft.Json.dll
+C:\Learn\rabbitmq-by-example\3-rabbitmq-by-example-m3-exercise-files\StandardQueue\bin\Debug\Common.pdb
+C:\Learn\rabbitmq-by-example\3-rabbitmq-by-example-m3-exercise-files\StandardQueue\bin\Debug\Common.dll.config
+C:\Learn\rabbitmq-by-example\3-rabbitmq-by-example-m3-exercise-files\StandardQueue\bin\Debug\RabbitMQ.Client.xml
+C:\Learn\rabbitmq-by-example\3-rabbitmq-by-example-m3-exercise-files\StandardQueue\bin\Debug\Newtonsoft.Json.xml
+C:\Learn\rabbitmq-by-example\3-rabbitmq-by-example-m3-exercise-files\StandardQueue\obj\Debug\StandardQueue.csprojAssemblyReference.cache
+C:\Learn\rabbitmq-by-example\3-rabbitmq-by-example-m3-exercise-files\StandardQueue\obj\Debug\StandardQueue.csproj.CoreCompileInputs.cache
+C:\Learn\rabbitmq-by-example\3-rabbitmq-by-example-m3-exercise-files\StandardQueue\obj\Debug\StandardQueue.csproj.CopyComplete
+C:\Learn\rabbitmq-by-example\3-rabbitmq-by-example-m3-exercise-files\StandardQueue\obj\Debug\StandardQueue.exe
+C:\Learn\rabbitmq-by-example\3-rabbitmq-by-example-m3-exercise-files\StandardQueue\obj\Debug\StandardQueue.pdb

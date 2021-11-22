@@ -1,0 +1,10 @@
+C:\Learn\rabbitmq-by-example\3-rabbitmq-by-example-m3-exercise-files\Common\bin\Debug\Common.dll.config
+C:\Learn\rabbitmq-by-example\3-rabbitmq-by-example-m3-exercise-files\Common\bin\Debug\Common.dll
+C:\Learn\rabbitmq-by-example\3-rabbitmq-by-example-m3-exercise-files\Common\bin\Debug\Common.pdb
+C:\Learn\rabbitmq-by-example\3-rabbitmq-by-example-m3-exercise-files\Common\bin\Debug\Newtonsoft.Json.dll
+C:\Learn\rabbitmq-by-example\3-rabbitmq-by-example-m3-exercise-files\Common\bin\Debug\Newtonsoft.Json.xml
+C:\Learn\rabbitmq-by-example\3-rabbitmq-by-example-m3-exercise-files\Common\obj\Debug\Common.csprojAssemblyReference.cache
+C:\Learn\rabbitmq-by-example\3-rabbitmq-by-example-m3-exercise-files\Common\obj\Debug\Common.csproj.CoreCompileInputs.cache
+C:\Learn\rabbitmq-by-example\3-rabbitmq-by-example-m3-exercise-files\Common\obj\Debug\Common.csproj.CopyComplete
+C:\Learn\rabbitmq-by-example\3-rabbitmq-by-example-m3-exercise-files\Common\obj\Debug\Common.dll
+C:\Learn\rabbitmq-by-example\3-rabbitmq-by-example-m3-exercise-files\Common\obj\Debug\Common.pdb
